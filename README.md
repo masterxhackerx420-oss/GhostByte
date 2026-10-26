@@ -1,5 +1,7 @@
 # GhostByte — Phone Recovery & OSINT Toolkit
 
+![GhostByte](ghostbyte-card.jpg)
+
 Standalone Python toolkit for phone-number intelligence and device recovery guidance.  
 Does **not** modify or depend on any existing GlitchByte tools.
 
@@ -35,10 +37,11 @@ python launcher.py
 
 ```
 GhostByte/
-├── launcher.py          # Main entry point
+├── launcher.py
 ├── requirements.txt
 ├── README.md
 ├── LICENSE
+├── ghostbyte-card.jpg
 ├── modules/
 │   ├── number_hunt.py
 │   ├── geo_echo.py
@@ -46,7 +49,7 @@ GhostByte/
 │   ├── ghost_rescue.py
 │   ├── recovery_shield.py
 │   └── evidence_vault.py
-└── reports/             # Auto-created evidence vault
+└── reports/
 ```
 
 ## Ethical Use
