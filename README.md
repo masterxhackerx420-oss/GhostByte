@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://hits.sh/github.com/masterxhackerx420-oss/GhostByte/">
+    <img src="https://hits.sh/github.com/masterxhackerx420-oss/GhostByte.svg?style=for-the-badge&label=Visitors&color=8b5cf6&logo=eye" alt="Visitors" />
+  </a>
+</p>
+
 # GhostByte — Phone Recovery & OSINT Toolkit
 
 ![GhostByte](ghostbyte-card.jpg)
